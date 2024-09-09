@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**AlvinHon/AlvinHon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This guy likes coding. Sometimes he implements the ideas from the research topics that he is interested in. He can produce example code for demonstrative projects which can be a reference for future development. When inspired by something, he will try to make it real. 
 
-Here are some ideas to get you started:
+Let's see some highlighted repositories here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Research Interests:
+- [brands-rs]([../brands-rs](https://github.com/AlvinHon/brands-rs)) implements digital cash.
+- [schnorr](https://github.com/AlvinHon/schnorr) implements Schnorr protocols such as Schnorr signature.
+
+🔭 Project Examples:
+- [distributed model inference](https://github.com/AlvinHon/distributed-model-inference) architects distributed system with microservices, associated with machine learning things.
+- [todolist web](https://github.com/AlvinHon/todolist-web) includes frontend and backend source code, working in a three-tier architecture.
+
+⚡ POC:
+- [webmessage](https://github.com/AlvinHon/webmessage), rust-wasm library to bring cryptography to messaging in web applications.
+
+
+💬 Welcome to find me via the contacts in my profile!
