@@ -5,7 +5,7 @@ This guy likes coding. Sometimes he implements the ideas from the research topic
 Let's see some highlighted repositories here.
 
 🌱 Research Interests:
-- [brands-rs]([../brands-rs](https://github.com/AlvinHon/brands-rs)) implements digital cash.
+- [brands-rs](https://github.com/AlvinHon/brands-rs) implements digital cash.
 - [schnorr](https://github.com/AlvinHon/schnorr) implements Schnorr protocols such as Schnorr signature.
 
 🔭 Project Examples:
