@@ -19,4 +19,4 @@ If you are interested in his skill set (other than `rust`), click the below tags
 [chess-on-blockchain]: https://github.com/AlvinHon/chess-on-blockchain
 [brands-cpp]: https://github.com/AlvinHon/DigitalCash-Brands
 
-💬 Welcome to find him via the contacts in my profile!
+💬 Welcome to find him via the contacts in the profile!
