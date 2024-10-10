@@ -1,19 +1,22 @@
 ## Hi there 👋
 
-This guy likes coding. Sometimes he implements the ideas from the research topics that he is interested in. He can produce example code for demonstrative projects which can be a reference for future development. When inspired by something, he will try to make it real. 
+This guy likes coding. Currently, he keeps finding and implementing algorithms and protocols of frontier research articles. He will try to make them real as a way to contribute to the open-source communities. Let's see some of the repositories:
 
-Let's see some highlighted repositories here.
-
-🌱 Research Interests:
+- [transferable-ecash](https://github.com/AlvinHon/transferable-ecash) implements anonymous transferable e-cash.
 - [brands-rs](https://github.com/AlvinHon/brands-rs) implements digital cash.
-- [schnorr](https://github.com/AlvinHon/schnorr) implements Schnorr protocols such as Schnorr signature.
+- Cryptograhy libraries: [mercurial-signature](https://github.com/AlvinHon/mercurial-signature), [schnorr](https://github.com/AlvinHon/schnorr), [bls-elgamal](https://github.com/AlvinHon/bls-elgamal)
 
-🔭 Project Examples:
-- [distributed model inference](https://github.com/AlvinHon/distributed-model-inference) architects distributed system with microservices, associated with machine learning things.
-- [todolist web](https://github.com/AlvinHon/todolist-web) includes frontend and backend source code, working in a three-tier architecture.
+If you are interested in his skill set (other than `rust`), click the below tags and they will direct you to the corresponding demonstrative projects.
 
-⚡ POC:
-- [webmessage](https://github.com/AlvinHon/webmessage), rust-wasm library to bring cryptography to messaging in web applications.
+- [`java`][distributed-model-inference], [`python`][chess-on-blockchain], [`c#`][orderbook-cs]
+- [`spring-boot`][todolist-web], [`ASP.NET`][orderbook-cs], [`kafka`][distributed-model-inference], [`reactJS`][config-ui]
+- [`docker`][distributed-model-inference]
+ 
+[distributed-model-inference]: https://github.com/AlvinHon/distributed-model-inference
+[orderbook-cs]: https://github.com/AlvinHon/orderbook-cs
+[todolist-web]: https://github.com/AlvinHon/todolist-web
+[config-ui]: https://github.com/AlvinHon/config-ui
+[chess-on-blockchain]: https://github.com/AlvinHon/chess-on-blockchain
+[brands-cpp]: https://github.com/AlvinHon/DigitalCash-Brands
 
-
-💬 Welcome to find me via the contacts in my profile!
+💬 Welcome to find him via the contacts in my profile!
