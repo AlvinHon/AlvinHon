@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-This guy likes coding. Currently, he keeps finding and implementing algorithms and protocols of frontier research articles. He will try to make them real as a way to contribute to the open-source communities. Let's see some of the repositories:
+This guy likes coding. Currently, he keeps finding and implementing algorithms and protocols of frontier research articles. He will contribute by trying to make them real. Let's see some of the repositories:
 
 - [transferable-ecash](https://github.com/AlvinHon/transferable-ecash) implements anonymous transferable e-cash.
 - [brands-rs](https://github.com/AlvinHon/brands-rs) implements digital cash.
-- Cryptograhy libraries: [mercurial-signature](https://github.com/AlvinHon/mercurial-signature), [schnorr](https://github.com/AlvinHon/schnorr), [bls-elgamal](https://github.com/AlvinHon/bls-elgamal)
+- Cryptography libraries: [mercurial-signature](https://github.com/AlvinHon/mercurial-signature), [schnorr](https://github.com/AlvinHon/schnorr), [bls-elgamal](https://github.com/AlvinHon/bls-elgamal)
 
 If you are interested in his skill set (other than `rust`), click the below tags and they will direct you to the corresponding demonstrative projects.
 
