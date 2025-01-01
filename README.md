@@ -1,10 +1,14 @@
 ## Hi there 👋
 
-This guy likes coding. Currently, he keeps finding and implementing algorithms and protocols of frontier research articles. He will contribute by trying to make them real. Let's see some of the repositories:
+This guy likes coding. Currently, he keeps finding and implementing algorithms and protocols of frontier research articles. He will contribute by trying to make them real. 
 
-- [transferable-ecash](https://github.com/AlvinHon/transferable-ecash) implements anonymous transferable e-cash.
-- [brands-rs](https://github.com/AlvinHon/brands-rs) implements digital cash.
-- Cryptography libraries: [mercurial-signature](https://github.com/AlvinHon/mercurial-signature), [schnorr](https://github.com/AlvinHon/schnorr), [bls-elgamal](https://github.com/AlvinHon/bls-elgamal)
+Let's see some of his repositories (in `rust`):
+
+- Digital cash: [brands-rs](https://github.com/AlvinHon/brands-rs)
+- Zero knowledge proof: [gs-ppe](https://github.com/AlvinHon/gs-ppe)
+- Signature schemes: [commuting-signature](https://github.com/AlvinHon/commuting-signature), [mercurial-signature](https://github.com/AlvinHon/mercurial-signature)
+- Encryption scheme: [rcca](https://github.com/AlvinHon/rcca)
+- Other cryptographic libraries: [schnorr](https://github.com/AlvinHon/schnorr), [bls-elgamal](https://github.com/AlvinHon/bls-elgamal)
 
 If you are interested in his skill set (other than `rust`), click the below tags and they will direct you to the corresponding demonstrative projects.
 
