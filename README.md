@@ -5,10 +5,10 @@ This guy likes coding. Currently, he keeps finding and implementing algorithms a
 Let's see some of his repositories (in `rust`):
 
 - Digital cash: [brands-rs](https://github.com/AlvinHon/brands-rs)
-- Zero knowledge proof: [gs-ppe](https://github.com/AlvinHon/gs-ppe)
-- Signature schemes: [commuting-signature](https://github.com/AlvinHon/commuting-signature), [mercurial-signature](https://github.com/AlvinHon/mercurial-signature)
-- Encryption scheme: [rcca](https://github.com/AlvinHon/rcca)
-- Other cryptographic libraries: [schnorr](https://github.com/AlvinHon/schnorr), [bls-elgamal](https://github.com/AlvinHon/bls-elgamal)
+- Zero knowledge proof: [gs-ppe](https://github.com/AlvinHon/gs-ppe), [ring-zk](https://github.com/AlvinHon/ring-zk)
+- Signature schemes: [lattice-based-signature](https://github.com/AlvinHon/lattice-based-signature), [commuting-signature](https://github.com/AlvinHon/commuting-signature), [mercurial-signature](https://github.com/AlvinHon/mercurial-signature)
+- Encryption scheme: [rlwe-encryption](https://github.com/AlvinHon/ring-lwe-encryption), [rcca](https://github.com/AlvinHon/rcca)
+- Other cryptographic libraries: [poly-ring](https://github.com/AlvinHon/poly-ring), [schnorr](https://github.com/AlvinHon/schnorr), [bls-elgamal](https://github.com/AlvinHon/bls-elgamal)
 
 If you are interested in his skill set (other than `rust`), click the below tags and they will direct you to the corresponding demonstrative projects.
 
